@@ -218,3 +218,5 @@ texto en **negrita**
             </tr>
         </tbody>
     </table>
+    ----
+    Este es un cambio desde visual que  quieres hacer un commit con visual
