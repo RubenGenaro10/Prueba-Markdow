@@ -220,3 +220,8 @@ texto en **negrita**
     </table>
     ----
     Este es un cambio desde visual que  quieres hacer un commit con visual
+
+    ---
+
+    este es un cambio developmen 
+    despues de haber subido la rama
