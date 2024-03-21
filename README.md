@@ -73,7 +73,7 @@ texto en **negrita**
 [Fecha: Mes y Año]
 
 
-<p style="text-align:center;"><span style="font-size:24px;">Título centrado</span></p>
+<p style="text-align:center; color: red"><span style="font-size:24px;">Título centrado</span></p>
 
 <table border="1" align="center">
   <tr>
